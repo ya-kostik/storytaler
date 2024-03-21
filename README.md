@@ -1,4 +1,4 @@
-# Storytaler
+# Storyteller
 
 ## Install
 
